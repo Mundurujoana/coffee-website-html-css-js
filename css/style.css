@@ -224,7 +224,7 @@ section{
 }
 
 .home .content p{
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: lighter;
     line-height: 1.8;
     padding:1rem 0;
@@ -256,7 +256,7 @@ section{
 }
 
 .about .row .content p{
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     color:#ccc;
     padding:1rem 0;
     line-height: 1.8;
@@ -280,13 +280,13 @@ section{
 
 .menu .box-container .box h3{
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.8rem;
     padding:1rem 0;
 }
 
 .menu .box-container .box .price{
     color: #fff;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     padding:.5rem 0;
 }
 
@@ -320,7 +320,7 @@ section{
     height: 5rem;
     width: 5rem;
     line-height: 5rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     border:var(--border);
     color:#fff;
     margin:.3rem;
@@ -340,21 +340,21 @@ section{
 
 .products .box-container .box .content h3{
     color:#fff;
-    font-size: 2.5rem;
+    font-size: 1.9rem;
 }
 
 .products .box-container .box .content .stars{
-    padding: 1.5rem;
+    padding: 1.3rem;
 }
 
 .products .box-container .box .content .stars i{
-    font-size: 1.7rem;
+    font-size: 1.8rem;
     color: var(--main-color);
 }
 
 .products .box-container .box .content .price{
     color:#fff;
-    font-size: 2.5rem;
+    font-size: 2.1rem;
 }
 
 .products .box-container .box .content .price span{
@@ -480,7 +480,7 @@ section{
 }
 
 .blogs .box-container .box .content .title{
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     line-height: 1.5;
     color:#fff;
 }
@@ -493,11 +493,11 @@ section{
     color:var(--main-color);
     display: block;
     padding-top: 1rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .blogs .box-container .box .content p{
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     line-height: 1.8;
     color:#ccc;
     padding:1rem 0;
